@@ -33,7 +33,6 @@ Python Libraries
 ![Static Badge](https://img.shields.io/badge/NumPy-White?style=plastic&logo=numpy&logoColor=%234D77CF&logoSize=auto&labelColor=white&color=%234DABCF)
 ![Static Badge](https://img.shields.io/badge/Pandas-White?style=plastic&logo=pandas&logoColor=%23130654&logoSize=auto&labelColor=white&color=%23130654)
 ![Static Badge](https://img.shields.io/badge/SciPy-White?style=plastic&logo=scipy&logoSize=auto&labelColor=white&color=%238CAAE6)
-![Static Badge](https://img.shields.io/badge/Scikit--Learn-White?style=plastic&logo=scikitlearn&logoSize=auto&labelColor=white&color=%233294C7)
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-White?style=plastic&logo=scikitlearn&logoColor=%233294C7&logoSize=auto&labelColor=white&color=%23F7931E)
 ![Static Badge](https://img.shields.io/badge/PyTorch-White?style=plastic&logo=pytorch&logoSize=auto&labelColor=white&color=%23EE4C2C)
 ![Static Badge](https://img.shields.io/badge/Matplotlib-White?style=plastic&logo=matplotlib&logoSize=auto&labelColor=white&color=%233776AB)
