@@ -2,7 +2,7 @@
 
 I'm young professional and recent graduate from UC San Diego specializing in machine learning and data science with a deep passion for practical AI. For the past few years I've been developing my skill set to span all things from statistical modeling, machine learning, and artificial intelligence. Feel free to scroll around and check out my work!
 
-🌱 **Currently learning:** Docker, Kubernetes, and related cloud-native applications 
+🌱 **Currently learning:** Cloud-native CI/CD tools and C 
 <br>
 🔭 **Current interests:** Generative AI, Formal Logic
 
